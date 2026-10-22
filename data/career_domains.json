@@ -1,0 +1,106 @@
+[
+  {
+    "Career_Domain": "Software Development",
+    "Relevant_Skills": "Python, C++, Java, JavaScript, React, Node.js, DSA, Git, SQL",
+    "Potential_Roles": "Software Developer Intern, Frontend Developer Intern, Backend Developer Intern, Full-Stack Developer Intern, Junior Software Engineer",
+    "Roadmap_Summary": "Strengthen one programming language and OOP → Practice arrays, strings, recursion and basic DSA → Learn Git/GitHub and debugging → Build 2 projects relevant to the target role → Deploy projects and prepare a portfolio → Practice coding interviews and explain project decisions",
+    "Project_Ideas": "Task and productivity tracker, Student community portal, REST API with authentication, Responsive portfolio website",
+    "Learning_Resources": "Official language documentation, freeCodeCamp, MDN Web Docs, LeetCode practice"
+  },
+  {
+    "Career_Domain": "Data Analytics & BI",
+    "Relevant_Skills": "Python, SQL, Excel, Statistics, Data analysis, Power BI, Tableau",
+    "Potential_Roles": "Data Analyst Intern, Business Intelligence Intern, Reporting Analyst Intern, Junior Data Analyst",
+    "Roadmap_Summary": "Learn spreadsheet formulas, cleaning and pivot tables → Practice SQL filtering, joins, grouping and subqueries → Learn descriptive statistics and data storytelling → Build dashboards in Power BI or Tableau → Complete 2 end-to-end analysis projects → Publish case studies and practice business questions",
+    "Project_Ideas": "Student performance dashboard, Retail sales analysis, Placement trends dashboard, Public dataset exploratory analysis",
+    "Learning_Resources": "Microsoft Learn Power BI, SQLBolt, Kaggle Learn, pandas documentation"
+  },
+  {
+    "Career_Domain": "AI & Machine Learning",
+    "Relevant_Skills": "Python, Statistics, Linear algebra, pandas, NumPy, scikit-learn, Data analysis",
+    "Potential_Roles": "Machine Learning Intern, AI Research Intern, Data Science Intern, Junior ML Engineer",
+    "Roadmap_Summary": "Build Python foundations and data handling → Study probability, statistics and linear algebra basics → Learn data preparation and visualization → Train and evaluate supervised ML models → Build a documented end-to-end ML project → Learn model limitations, responsible AI and deployment basics",
+    "Project_Ideas": "Student outcome prediction with public data, Spam classification, Recommendation system prototype, Image classification demo",
+    "Learning_Resources": "scikit-learn documentation, Kaggle Learn, Google ML Crash Course, NumPy and pandas documentation"
+  },
+  {
+    "Career_Domain": "Cybersecurity",
+    "Relevant_Skills": "Linux, Networking, Python, Cybersecurity basics, Web fundamentals, Git",
+    "Potential_Roles": "SOC Analyst Intern, Security Analyst Intern, Application Security Intern, Cybersecurity Intern",
+    "Roadmap_Summary": "Learn operating system and networking fundamentals → Practice Linux commands and scripting → Study web security concepts in legal lab environments → Use beginner CTFs and defensive security tools → Document lab write-ups and remediation steps → Prepare fundamentals and ethics-focused interview answers",
+    "Project_Ideas": "Log anomaly analysis, Security awareness checklist, Home lab network diagram, Web security testing report on a legal practice app",
+    "Learning_Resources": "Cisco Networking Academy, OWASP Web Security Testing Guide, TryHackMe beginner paths, Linux documentation"
+  },
+  {
+    "Career_Domain": "Cloud & DevOps",
+    "Relevant_Skills": "Linux, Git, Cloud basics, Docker, Networking, Python, CI/CD",
+    "Potential_Roles": "Cloud Support Intern, DevOps Intern, Site Reliability Intern, Platform Engineering Intern",
+    "Roadmap_Summary": "Learn Linux, networking and Git → Understand one cloud provider's core services → Containerize a small application with Docker → Create a basic CI/CD workflow → Deploy a project and add monitoring/logging basics → Document architecture, security and cost considerations",
+    "Project_Ideas": "Deploy a portfolio with CI/CD, Containerized student API, Cloud-hosted task manager, Infrastructure monitoring demo",
+    "Learning_Resources": "AWS Skill Builder, Microsoft Learn Azure, Docker documentation, GitHub Actions documentation"
+  },
+  {
+    "Career_Domain": "Embedded Systems & IoT",
+    "Relevant_Skills": "C, Embedded C, Arduino, Microcontrollers, Digital electronics, IoT, Circuit analysis",
+    "Potential_Roles": "Embedded Systems Intern, IoT Developer Intern, Firmware Intern, Hardware Validation Intern",
+    "Roadmap_Summary": "Strengthen C and digital electronics fundamentals → Practice microcontroller GPIO, timers and interrupts → Interface sensors and communication protocols → Build and test a sensor-based prototype → Document circuit, firmware and test results → Learn debugging with serial tools and basic version control",
+    "Project_Ideas": "Smart plant monitor, Energy usage logger, Sensor-based safety alert, IoT room monitoring prototype",
+    "Learning_Resources": "Arduino documentation, Microchip learning resources, Embedded.com tutorials, Platform datasheets"
+  },
+  {
+    "Career_Domain": "VLSI & Chip Design",
+    "Relevant_Skills": "Digital electronics, Verilog, Logic design, Electronics, Timing analysis",
+    "Potential_Roles": "VLSI Design Intern, RTL Design Intern, Verification Intern, Digital Design Intern",
+    "Roadmap_Summary": "Revise Boolean algebra and digital logic → Learn Verilog modules and testbenches → Practice combinational and sequential circuits → Simulate and verify a small design → Study timing, FSMs and basic verification concepts → Prepare project documentation and fundamentals",
+    "Project_Ideas": "UART controller simulation, Finite-state machine design, FIFO module and testbench, Parameterized counter design",
+    "Learning_Resources": "HDLBits, IEEE Verilog resources, EDA Playground, Digital design course notes"
+  },
+  {
+    "Career_Domain": "Robotics & Automation",
+    "Relevant_Skills": "C++, Python, Robotics basics, Arduino, Control systems, CAD, MATLAB",
+    "Potential_Roles": "Robotics Intern, Automation Intern, Controls Intern, Mechatronics Intern",
+    "Roadmap_Summary": "Learn programming and basic electronics/mechanics → Study sensors, actuators and feedback control → Prototype a small robot or automation workflow → Use simulation or CAD where relevant → Test repeatability, safety and performance → Document design choices and measurable results",
+    "Project_Ideas": "Line-following robot, Automated sorting prototype, PID motor control demo, Robot simulation",
+    "Learning_Resources": "Arduino documentation, ROS documentation, MATLAB learning resources, Open-source robotics tutorials"
+  },
+  {
+    "Career_Domain": "UI/UX & Product Design",
+    "Relevant_Skills": "Figma, Wireframing, Visual design, HTML/CSS, User research, Prototyping",
+    "Potential_Roles": "UI/UX Design Intern, Product Design Intern, UX Research Intern, Frontend Design Intern",
+    "Roadmap_Summary": "Study usability and accessibility principles → Learn wireframes, flows and prototyping in Figma → Conduct small user interviews and synthesize findings → Redesign one real user journey with evidence → Build a case-study portfolio → Practice explaining trade-offs and design decisions",
+    "Project_Ideas": "College service app redesign, Accessible student dashboard, Internship discovery user flow, Mobile onboarding prototype",
+    "Learning_Resources": "Figma Learn, Nielsen Norman Group articles, Material Design guidelines, W3C accessibility guidance"
+  },
+  {
+    "Career_Domain": "Mechanical Design & Manufacturing",
+    "Relevant_Skills": "CAD, SolidWorks, AutoCAD, CNC basics, 3D printing, Quality tools",
+    "Potential_Roles": "Mechanical Design Intern, CAD Intern, Manufacturing Intern, Quality Engineering Intern",
+    "Roadmap_Summary": "Revise engineering drawing and manufacturing basics → Practice parametric CAD and assemblies → Learn tolerances and design-for-manufacture principles → Create a documented component or assembly model → Explore simulation and prototyping → Prepare a portfolio with drawings and design rationale",
+    "Project_Ideas": "3D-printable assistive device, Mechanical assembly model, Fixture design, Manufacturing process improvement study",
+    "Learning_Resources": "Autodesk learning resources, SOLIDWORKS tutorials, NPTEL manufacturing courses, ASME learning resources"
+  },
+  {
+    "Career_Domain": "Civil Design & BIM",
+    "Relevant_Skills": "AutoCAD, Revit, STAAD.Pro, BIM basics, Structural analysis, Project planning",
+    "Potential_Roles": "Civil Engineering Intern, BIM Modeler Intern, Structural Design Intern, Site Engineering Intern",
+    "Roadmap_Summary": "Revise engineering drawing and structural fundamentals → Practice AutoCAD and/or Revit workflows → Learn BIM coordination and documentation basics → Complete a small model or design case study → Understand codes, safety and quality documentation → Prepare a portfolio and target role-specific internships",
+    "Project_Ideas": "Small building BIM model, Quantity estimation workbook, Structural analysis case study, Sustainable campus layout concept",
+    "Learning_Resources": "Autodesk learning resources, NPTEL civil engineering courses, BIS code references via institution, Revit documentation"
+  },
+  {
+    "Career_Domain": "Electrical & Renewable Energy",
+    "Relevant_Skills": "Circuit analysis, MATLAB, Power systems, Control systems, Renewable energy, PLC basics",
+    "Potential_Roles": "Electrical Engineering Intern, Power Systems Intern, Renewable Energy Intern, Controls Intern",
+    "Roadmap_Summary": "Revise circuit and electrical machine fundamentals → Practice MATLAB/Simulink or equivalent tools → Study power systems and renewable integration basics → Build a simulation or energy audit case study → Document assumptions, calculations and safety → Prepare for role-specific technical interviews",
+    "Project_Ideas": "Solar output analysis, Energy consumption dashboard, Motor control simulation, Building energy audit",
+    "Learning_Resources": "NPTEL electrical courses, MATLAB learning resources, NREL educational resources, Manufacturer application notes"
+  },
+  {
+    "Career_Domain": "Chemical & Process Engineering",
+    "Relevant_Skills": "Process simulation, Thermodynamics, Mass transfer, Process safety, Excel, Data analysis",
+    "Potential_Roles": "Process Engineering Intern, Production Intern, Quality Intern, Process Safety Intern",
+    "Roadmap_Summary": "Revise material and energy balances → Practice process simulation and spreadsheet analysis → Learn process safety and hazard identification basics → Analyze a process or quality dataset → Document process assumptions and improvement opportunities → Prepare a role-specific technical portfolio",
+    "Project_Ideas": "Process optimization case study, Quality control dashboard, Energy efficiency analysis, Process hazard checklist",
+    "Learning_Resources": "NPTEL chemical engineering courses, AIChE educational resources, Excel documentation, Process simulator learning materials"
+  }
+]

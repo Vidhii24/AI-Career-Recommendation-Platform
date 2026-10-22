@@ -1,0 +1,38 @@
+[
+  [
+    "Item",
+    "Description"
+  ],
+  [
+    "Purpose",
+    "Prototype dataset for an AI-assisted career recommendation platform focused initially on engineering college students."
+  ],
+  [
+    "Record count",
+    "550 synthetic student-profile examples."
+  ],
+  [
+    "Intended audience",
+    "Engineering students across Computer, IT, ECE, Electrical, Mechanical, Civil and Chemical branches."
+  ],
+  [
+    "Data status",
+    "All profiles are generated examples, not real student data. Use for UI demos, recommendation logic testing and prototype development."
+  ],
+  [
+    "How to use",
+    "Use Student_Profile_Dataset to test profile intake and recommendation cards. Use Career_Domain_Catalog to populate domain details and roadmap content."
+  ],
+  [
+    "Important limitation",
+    "This dataset is not validated career guidance and should not be presented as ground-truth labels. Recommendations should be explainable and editable by students."
+  ],
+  [
+    "Recommended product logic",
+    "Score domain fit using skills, interests, preferred work style and aspiration. Return top 3 domains with match reasons, skill gaps, a stepwise roadmap and role categories. Allow users to revise inputs."
+  ],
+  [
+    "Privacy note",
+    "Collect only necessary data, ask consent, avoid storing sensitive personal information, and let students delete/export their profiles."
+  ]
+]

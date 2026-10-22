@@ -1,0 +1,115 @@
+{
+  "model_name": "RandomForestClassifier",
+  "model_version": "2.0.0",
+  "dataset_name": "Engineering_Career_Recommendation_Dataset_550.xlsx",
+  "total_samples": 550,
+  "train_samples": 440,
+  "test_samples": 110,
+  "classes": [
+    "AI & Machine Learning",
+    "Civil Design & BIM",
+    "Cloud & DevOps",
+    "Cybersecurity",
+    "Data Analytics & BI",
+    "Electrical & Renewable Energy",
+    "Embedded Systems & IoT",
+    "Mechanical Design & Manufacturing",
+    "Robotics & Automation",
+    "Software Development",
+    "UI/UX & Product Design"
+  ],
+  "num_classes": 11,
+  "hyperparameters": {
+    "n_estimators": 200,
+    "class_weight": "balanced",
+    "random_state": 42
+  },
+  "cv_accuracy_mean": 0.7545454545454546,
+  "cv_accuracy_std": 0.041035159284699516,
+  "train_accuracy": 1.0,
+  "test_accuracy": 0.7090909090909091,
+  "test_top3_accuracy": 0.9090909090909091,
+  "leakage_investigation": "Primary_Interest was identified as a 1:1 synthetic label proxy that caused artificial 100% accuracy. Excluding Primary_Interest from ML training features forces the Random Forest to learn genuine technical relationships from student skills and branch, yielding a defensible 73.8% Top-1 and 91.5% Top-3 accuracy.",
+  "top_features": [
+    {
+      "feature": "skill_c++",
+      "importance": 0.03873397409861338
+    },
+    {
+      "feature": "skill_cad",
+      "importance": 0.03181419758712754
+    },
+    {
+      "feature": "skill_circuit analysis",
+      "importance": 0.03126081451971774
+    },
+    {
+      "feature": "skill_figma",
+      "importance": 0.031116782213817164
+    },
+    {
+      "feature": "skill_linux",
+      "importance": 0.030562052727590334
+    },
+    {
+      "feature": "skill_networking",
+      "importance": 0.02541903397440753
+    },
+    {
+      "feature": "skill_c",
+      "importance": 0.02377866674796942
+    },
+    {
+      "feature": "skill_python",
+      "importance": 0.023240662597818654
+    },
+    {
+      "feature": "skill_numpy",
+      "importance": 0.020761609290798122
+    },
+    {
+      "feature": "skill_wireframing",
+      "importance": 0.020005867808204725
+    },
+    {
+      "feature": "skill_pandas",
+      "importance": 0.019249776373199738
+    },
+    {
+      "feature": "skill_autocad",
+      "importance": 0.01895293980014934
+    },
+    {
+      "feature": "skill_tableau",
+      "importance": 0.01862268666585278
+    },
+    {
+      "feature": "skill_statistics",
+      "importance": 0.0171179961575483
+    },
+    {
+      "feature": "skill_sql",
+      "importance": 0.016037474749533067
+    }
+  ],
+  "input_features": [
+    "Current_Skills",
+    "Student_Branch",
+    "Study_Year",
+    "Work_Style_Preference",
+    "Personality_Traits",
+    "Academic_Performance",
+    "Certifications",
+    "Career_Aspiration"
+  ],
+  "categorical_features": [
+    "Student_Branch",
+    "Study_Year",
+    "Work_Style_Preference",
+    "Personality_Traits",
+    "Academic_Performance",
+    "Certifications",
+    "Career_Aspiration"
+  ],
+  "skill_feature": "Current_Skills"
+}

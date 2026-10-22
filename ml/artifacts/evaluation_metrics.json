@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.7090909090909091,
+  "top3_accuracy": 0.9090909090909091,
+  "macro_precision": 0.7367243867243868,
+  "weighted_precision": 0.7367243867243868,
+  "macro_recall": 0.7090909090909091,
+  "weighted_recall": 0.7090909090909091,
+  "macro_f1": 0.7097771978154753,
+  "weighted_f1": 0.7097771978154753,
+  "classes": [
+    "AI & Machine Learning",
+    "Civil Design & BIM",
+    "Cloud & DevOps",
+    "Cybersecurity",
+    "Data Analytics & BI",
+    "Electrical & Renewable Energy",
+    "Embedded Systems & IoT",
+    "Mechanical Design & Manufacturing",
+    "Robotics & Automation",
+    "Software Development",
+    "UI/UX & Product Design"
+  ],
+  "test_support_per_class": 10,
+  "train_support_per_class": 40,
+  "total_test_samples": 110,
+  "evaluation_timestamp": "2026-10-22T09:42:04.461418"
+}

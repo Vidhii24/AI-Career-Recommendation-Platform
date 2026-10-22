@@ -1,0 +1,98 @@
+{
+  "usr_cf0fe9b1-4a83-491d-874a-95f69ab65cb1": {
+    "id": "usr_cf0fe9b1-4a83-491d-874a-95f69ab65cb1",
+    "name": "Rahul Sharma",
+    "email": "rahul.test@example.com",
+    "passwordHash": "$2b$10$P2j50urit6mtPbZVblnmcOAK5SFiY3Z2gX4wUd2imlhWEX0pNG6kO",
+    "createdAt": "2026-10-21T16:10:53.202Z",
+    "updatedAt": "2026-10-21T16:10:53.202Z"
+  },
+  "usr_9b076f1b-a65f-4723-9534-2e4f4b2a89ee": {
+    "id": "usr_9b076f1b-a65f-4723-9534-2e4f4b2a89ee",
+    "name": "Aditya Kulkarni",
+    "email": "student1_1792599628383@engineering.edu",
+    "passwordHash": "$2b$10$8lJvq/ucBZvtQ1eEWWTn4epsSu90w8/V..20sW6g779TqnZdYfNZC",
+    "createdAt": "2026-10-21T16:20:28.470Z",
+    "updatedAt": "2026-10-21T16:20:28.470Z"
+  },
+  "usr_fbb2ef43-2e56-470a-8c4c-43d886ca6e38": {
+    "id": "usr_fbb2ef43-2e56-470a-8c4c-43d886ca6e38",
+    "name": "Pooja Hegde",
+    "email": "student2_1792599628383@engineering.edu",
+    "passwordHash": "$2b$10$1YRLSlacnKu25Yc3SZEjE.shLZbdmqj7nXGk.16418xYMJr.VjPeC",
+    "createdAt": "2026-10-21T16:20:28.798Z",
+    "updatedAt": "2026-10-21T16:20:28.798Z"
+  },
+  "usr_dddd896e-4193-4e97-aeff-0d92790c4956": {
+    "id": "usr_dddd896e-4193-4e97-aeff-0d92790c4956",
+    "name": "Vidhi Joshi",
+    "email": "vidhijoshi8811@gmail.com",
+    "passwordHash": "$2b$10$vcK7tMhnPFifAdTuS9K.8.lWDmMvUAEW4CrOcXVxL6dCqG5.KLfju",
+    "createdAt": "2026-10-21T16:22:32.240Z",
+    "updatedAt": "2026-10-21T16:36:52.541Z"
+  },
+  "usr_6c51dc97-010f-47a7-9bf9-85a022ce7a5d": {
+    "id": "usr_6c51dc97-010f-47a7-9bf9-85a022ce7a5d",
+    "name": "Aditya Kulkarni",
+    "email": "student1_1792600256002@engineering.edu",
+    "passwordHash": "$2b$10$XSoDRjc7zI9joXjh4apAUO.eggIoJu1cVLPpWxuAy0zFz.T/WrBzy",
+    "createdAt": "2026-10-21T16:30:56.106Z",
+    "updatedAt": "2026-10-21T16:30:56.106Z"
+  },
+  "usr_2ff46391-ccbb-4843-a038-76d301a063c2": {
+    "id": "usr_2ff46391-ccbb-4843-a038-76d301a063c2",
+    "name": "Pooja Hegde",
+    "email": "student2_1792600256002@engineering.edu",
+    "passwordHash": "$2b$10$POqcOmXec.G9roXiPTsEK.NrCAQl6tA6rCAnmfdf2BUw8RNhGCjlu",
+    "createdAt": "2026-10-21T16:30:56.481Z",
+    "updatedAt": "2026-10-21T16:30:56.481Z"
+  },
+  "usr_06798e5d-f744-4b31-a6c7-33b49cb0bdd6": {
+    "id": "usr_06798e5d-f744-4b31-a6c7-33b49cb0bdd6",
+    "name": "mishita joshi",
+    "email": "vidhijoshi624@gmail.com",
+    "passwordHash": "$2b$10$YNcDWiJ5TXwDJqg8tPLIuOqsxQPowwvSXp6f4E7fi4Rht3UFPmnNe",
+    "createdAt": "2026-10-21T16:32:50.889Z",
+    "updatedAt": "2026-10-21T16:32:50.889Z"
+  },
+  "usr_2c344197-b28d-41a9-9a92-3d380169f28a": {
+    "id": "usr_2c344197-b28d-41a9-9a92-3d380169f28a",
+    "name": "Student Alpha",
+    "email": "student_a_1792643698@eng.college.edu",
+    "passwordHash": "$2b$10$fuNvoDOCYKi4WrzdbjPpgOOAeeXHfTsU92h7HEXp2mAyvGsV5qOqC",
+    "createdAt": "2026-10-22T04:34:58.414Z",
+    "updatedAt": "2026-10-22T04:34:58.414Z"
+  },
+  "usr_27a0a9eb-0731-4244-b907-ea975e20892c": {
+    "id": "usr_27a0a9eb-0731-4244-b907-ea975e20892c",
+    "name": "Student Beta",
+    "email": "student_b_1792643698@eng.college.edu",
+    "passwordHash": "$2b$10$AKrEeuF7p.dmBx7m8eQHvufC76pqbd3tO9XV.f6tKfKpCumJLV/4u",
+    "createdAt": "2026-10-22T04:34:58.505Z",
+    "updatedAt": "2026-10-22T04:34:58.505Z"
+  },
+  "usr_095b8c5b-10c5-4e5e-8095-4b6f3e699499": {
+    "id": "usr_095b8c5b-10c5-4e5e-8095-4b6f3e699499",
+    "name": "Student Alpha",
+    "email": "student_a_1792643743@eng.college.edu",
+    "passwordHash": "$2b$10$IiHTzKvgie2uDmhgz0D7Oe/HQxJBXk7Af7XUIybThakrJKCuqA8mW",
+    "createdAt": "2026-10-22T04:35:43.299Z",
+    "updatedAt": "2026-10-22T04:35:43.299Z"
+  },
+  "usr_00cbb099-016b-46e4-a85a-85ad92968af7": {
+    "id": "usr_00cbb099-016b-46e4-a85a-85ad92968af7",
+    "name": "Student Beta",
+    "email": "student_b_1792643743@eng.college.edu",
+    "passwordHash": "$2b$10$uOhn6UjCov043vJduCBY/.EXm0z5xP7j5Ystk1ltS555sQNe1PCAO",
+    "createdAt": "2026-10-22T04:35:43.382Z",
+    "updatedAt": "2026-10-22T04:35:43.382Z"
+  },
+  "usr_76e284f4-026b-4987-a640-1d2aa78015a0": {
+    "id": "usr_76e284f4-026b-4987-a640-1d2aa78015a0",
+    "name": "Geetanshi Mehta",
+    "email": "geetanshi649@gmail.com",
+    "passwordHash": "$2b$10$YORNcsB8Vx3f/2eIHAnJa.IYupFlork0GMRBb2gr5.BaI.8eXzmte",
+    "createdAt": "2026-10-22T04:38:50.422Z",
+    "updatedAt": "2026-10-22T04:38:50.422Z"
+  }
+}

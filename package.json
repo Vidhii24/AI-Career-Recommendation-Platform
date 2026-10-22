@@ -1,0 +1,23 @@
+{
+  "name": "careercompass-ai",
+  "version": "1.0.0",
+  "description": "Smart AI-assisted engineering career discovery & adaptive roadmaps platform",
+  "scripts": {
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build",
+    "start": "node server/server.js",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "test:recommend": "node test_rec.js",
+    "test:e2e": "node test_complete_platform.js"
+  },
+  "keywords": [
+    "career-guidance",
+    "engineering-students",
+    "career-discovery",
+    "roadmaps",
+    "recommendation-engine"
+  ],
+  "author": "CareerCompass AI Team",
+  "license": "MIT"
+}
