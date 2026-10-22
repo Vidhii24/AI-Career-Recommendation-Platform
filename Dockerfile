@@ -10,18 +10,24 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-# Install Python dependencies in a dedicated virtualenv
+# 1. Install Python ML dependencies in a dedicated virtualenv
 COPY ml/requirements.txt ./ml/requirements.txt
 RUN python3 -m venv /app/venv && \
     /app/venv/bin/pip install --no-cache-dir --upgrade pip && \
     /app/venv/bin/pip install --no-cache-dir -r ml/requirements.txt
 
-# Install Node backend dependencies
+# 2. Install Node backend dependencies
 COPY package.json ./
 COPY server/package*.json ./server/
 RUN cd server && npm install --production
 
-# Copy application code and artifacts
+# 3. Install and build frontend React client
+COPY client/package*.json ./client/
+RUN cd client && npm install
+COPY client/ ./client/
+RUN cd client && npm run build
+
+# 4. Copy remaining application code, ML artifacts, and data
 COPY . .
 
 # Environment configuration

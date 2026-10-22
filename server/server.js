@@ -637,6 +637,21 @@ if (fs.existsSync(clientDistPath)) {
     if (req.path.startsWith('/api')) return next();
     res.sendFile(path.join(clientDistPath, 'index.html'));
   });
+} else {
+  app.get('/', (req, res) => {
+    res.json({
+      status: 'online',
+      service: 'CareerCompass AI Backend & ML Service',
+      version: '2.0.0',
+      message: 'Backend API is active and ready to serve recommendations.',
+      endpoints: {
+        health: '/api/health',
+        ml_health: '/api/ml-health',
+        domains: '/api/domains',
+        recommend: '/api/recommend'
+      }
+    });
+  });
 }
 
 app.listen(PORT, () => {
